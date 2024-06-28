@@ -14,5 +14,5 @@ dependencyResolutionManagement {
 }
 
 rootProject.name = "Stomp Android"
-include(":app")
- 
+include(":example-app")
+include(":stomp")
